@@ -1,3 +1,3 @@
-# Hello there! I'm IQBE
+# Hello there! I'm Ilya Quateau
 
 This readme is WIP...
