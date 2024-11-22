@@ -7,13 +7,14 @@ class Me:
   def __init__(self):
     self.aka = "IQBE"
     self.birthday = 2001
-    self.currently_learning = ["Rust"]
+    self.currently_learning = ["Rust", "Nix"]
     self.work_in_progress = "My personal website"
+    self.job = { Kapernikov: "Software consultant" }
 
   def planned_projects():
     raise OverflowError('Way to many!!!')
 
-  def get_contact():
+  def get_in_contact():
     print('''
       Send me an email!
       git@quateau.net
