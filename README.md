@@ -25,6 +25,8 @@ class Me:
       Take a look at my linktree:
       https://linktr.ee/ilyaquateau
     ''')
-
+```
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IQBE&layout=donut&theme=github_dark_dimmed)
+```py
 # Note: This README is still work in progress, come back later for more...
 ```
