@@ -7,9 +7,9 @@ class Me:
   def __init__(self):
     self.aka = "IQBE"
     self.birthday = 2001
-    self.currently_learning = ["Rust", "Nix"]
-    self.work_in_progress = "My personal website"
-    self.job = { Kapernikov: "Software consultant" }
+    self.currently_learning = ["GraphQL", "Kotlin", "Rust", "Nix"]
+    self.work_in_progress = "Home network"
+    self.job = {}
 
   def planned_projects():
     raise OverflowError('Way to many!!!')
