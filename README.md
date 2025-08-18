@@ -3,12 +3,16 @@
 <h3 align="center">{ I'm a young software engineer, linux tinkerer and FOSS enthousiast }</h3>
 
 ```py
+#!/usr/bin/env python
+
 class Me:
   def __init__(self):
+    self.name = "Ilya Quateau"
     self.aka = "IQBE"
+    self.location = "Aalst, Belgium"
     self.birthday = 2001
-    self.currently_learning = ["GraphQL", "Kotlin", "Rust", "Nix"]
-    self.work_in_progress = "Home network"
+    self.currently_learning = ["Java", "Kotlin", "Rust"]
+    self.work_in_progress = ("Personal website", "Home network")
     self.job = {}
 
   def planned_projects():
@@ -26,7 +30,7 @@ class Me:
       https://linktr.ee/ilyaquateau
     ''')
 ```
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IQBE&layout=donut&theme=github_dark_dimmed)
-```py
-# Note: This README is still work in progress, come back later for more...
-```
+<div align="center" height="auto" width="50%">
+  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQBE&layout=donut&theme=github_dark_dimmed">
+</div>
+<p align="center"><i>Note: This README is still work in progress, come back later for more...</i></p>
