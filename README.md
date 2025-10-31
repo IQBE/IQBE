@@ -11,8 +11,8 @@ class Me:
     self.aka = "IQBE"
     self.location = "Aalst, Belgium"
     self.birthday = 2001
-    self.currently_learning = ["Java", "Kotlin", "Rust"]
-    self.work_in_progress = ("Personal website", "Home network")
+    self.currently_learning = ["Java", "Rust"]
+    self.work_in_progress = ("Personal website", "Home lab")
     self.job = {}
 
   def planned_projects():
@@ -22,12 +22,6 @@ class Me:
     print('''
       Send me an email!
       git@quateau.net
-    ''')
-
-  def more_links():
-    print('''
-      Take a look at my linktree:
-      https://linktr.ee/ilyaquateau
     ''')
 ```
 <div align="center" height="auto" width="50%">
