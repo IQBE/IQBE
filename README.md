@@ -11,7 +11,7 @@ class Me:
     self.aka = "IQBE"
     self.location = "Aalst, Belgium"
     self.birthday = 2001
-    self.currently_learning = ["Java", "Rust"]
+    self.currently_learning = ["Rust", "Docker Swarm"]
     self.work_in_progress = ("Personal website", "Home lab")
     self.job = {}
 
@@ -27,4 +27,3 @@ class Me:
 <div align="center" height="auto" width="50%">
   <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQBE&layout=donut&theme=github_dark_dimmed">
 </div>
-<p align="center"><i>Note: This README is still work in progress, come back later for more...</i></p>
