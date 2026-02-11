@@ -24,6 +24,3 @@ class Me:
       git@quateau.net
     ''')
 ```
-<div align="center" height="auto" width="50%">
-  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQBE&layout=donut&theme=github_dark_dimmed">
-</div>
