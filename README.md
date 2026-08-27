@@ -14,7 +14,11 @@ class Me:
     self.birthday = datetime(2001, 6, 25)
     self.currently_learning = ["Rust", "NixOS", "n8n"]
     self.work_in_progress = ("Personal website", "Home lab")
-    self.job = {}
+    self.job = {
+      "function": "AI Engineer",
+      "company": "Humans In The Loop",
+      "start_date": datetime(2026, 8, 17)
+    }
 
   def planned_projects():
     raise OverflowError('Way to many!!!')
