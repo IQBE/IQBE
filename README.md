@@ -12,7 +12,7 @@ class Me:
     self.aka = "IQBE"
     self.location = "Aalst, Belgium"
     self.birthday = datetime(2001, 6, 25)
-    self.currently_learning = ["Mastra", "Rust", "NixOS"]
+    self.currently_learning = ["Mastra", "Rust"]
     self.work_in_progress = ("Home lab", "3D Printing")
     self.job = {
       "function": "AI Engineer",
